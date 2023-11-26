@@ -1,41 +1,19 @@
-Set up a new Git repository and create a a dev branch for 'new-project
+Set up a new Git repository and create a dev branch for 'new-project
 
-1. Crete a 'new-project' directory in your env
-
-2. Move to the 'new-project' directory
-
-cd new-project
-
-3. Intialize a new public git repo in the 'new-project' directory running:
-
-git init
-
-4. Create a 'README.md' file in 'new-project' directory
-
-echo README.md
-
-5. Stage the chnages
-
-git add .
-
-6. Commit the changes with 'init' message
-
-git commit -m "init"
-
-7. Create a 'development' branch and move to it
+1. Create a 'development' branch and move to it
 
 git branch development
 git checkout development
 
-8. Add instructions to 'README.md'
+2. Update the code if necessary, and add changes to the index
 
-git add README.md
+git add .
 
-9. Commit changes in 'development' branch
+3. Commit changes in 'development' branch with your message describing changes
 
-git commit -m "step 8 added"
+git commit -m "<your message>"
 
-10. Merge chnages to 'master' branch
+10. Push chnages to 'origin/main' branch
 
 git checkout master
 git merge developemnt
