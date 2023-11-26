@@ -26,3 +26,20 @@ git checkout development
 8. Add instructions to 'README.md'
 
 git add README.md
+
+9. Commit changes in 'development' branch
+
+git commit -m "step 8 added"
+
+10. Merge chnages to 'master' branch
+
+git checkout master
+git merge developemnt
+
+11. Check status
+
+git status
+
+12. Commit changes
+
+git commit -m "develop branch merged"
