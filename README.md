@@ -13,7 +13,7 @@ git add .
 
 git commit -m "<your message>"
 
-10. Push chnages to 'origin/main' branch
+4. Push chnages to 'origin/main' branch
 
 git checkout master
 git merge developemnt
