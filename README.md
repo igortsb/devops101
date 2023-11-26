@@ -44,6 +44,6 @@ git merge developemnt
 
 git status
 
-12. Commit changes
+12. Delete 'development' branch
 
-git commit -m "develop branch merged"
+git branch -d development
