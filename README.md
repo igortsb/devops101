@@ -4,11 +4,15 @@ Set up a new Git repository and create a a dev branch for 'new-project
 
 2. Move to the 'new-project' directory
 
+cd new-project
+
 3. Intialize a new public git repo in the 'new-project' directory running:
 
 git init
 
 4. Create a 'README.md' file in 'new-project' directory
+
+echo README.md
 
 5. Stage the chnages
 
