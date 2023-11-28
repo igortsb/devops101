@@ -18,7 +18,7 @@ git commit -m "<your message>"
 git checkout master
 git merge developemnt
 
-11. Check status
+5. Check status
 
 git status
 
