@@ -23,5 +23,5 @@ git status
 
 6. Merge 'developemnt' branch to 'origin/main' branch
 
-git checkout master
+git checkout 'origin/main'
 git merge development
