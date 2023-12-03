@@ -26,7 +26,6 @@ git status
 6. Check out to 'origin/main' branch, and merge 'development' branch to 'origin/main' branch
 ```
 git checkout main
-git pull origin main
 git merge development
 git push origin main
 ```
