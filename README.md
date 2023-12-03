@@ -15,8 +15,7 @@ git commit -m "<your message>"
 
 4. Push chnages to 'origin/main' branch
 
-git checkout master
-git merge developemnt
+git push
 
 5. Check if the changes merged successfully
 
