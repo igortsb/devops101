@@ -21,7 +21,7 @@ git push
 
 git status
 
-6. Merge 'developemnt' brnch to 'origin/main' branch
+6. Merge 'developemnt' branch to 'origin/main' branch
 
 git checkout master
 git merge development
