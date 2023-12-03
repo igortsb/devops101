@@ -23,7 +23,7 @@ git push
 ```
 git status
 ```
-6. Merge 'development' branch to 'origin/main' branch
+6. Check out to 'origin/main' branch, and merge 'development' branch to 'origin/main' branch
 ```
 git checkout main
 git pull origin main
