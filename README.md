@@ -13,10 +13,15 @@ git add .
 
 git commit -m "<your message>"
 
-4. Push chnages to 'origin/main' branch
+4. Push chnages to 'development' branch
 
 git push
 
 5. Check if the changes merged successfully
 
 git status
+
+6. Merge 'developemnt' brnch to 'origin/main' branch
+
+git checkout master
+git merge development
