@@ -18,10 +18,6 @@ git commit -m "<your message>"
 git checkout master
 git merge developemnt
 
-5. Check status
+5. Check if the changes merged successfully
 
 git status
-
-12. Delete 'development' branch
-
-git branch -d development
