@@ -1,4 +1,4 @@
-Set up a new Git repository and create a dev branch for 'new-project
+Set up a new Git repository and create a dev branch for 'new-project'
 
 1. Create a 'development' branch and move to it
 
